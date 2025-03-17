@@ -1,6 +1,6 @@
 # Projet-NLP
 
-# Inspiration et Évolution du Projet
+# Gabin CHARLEMAGNE - Simon BEUVAIN - Hugo CORNE 
 
 ## Contexte et Inspiration
 Le projet s'inspire de la compétition [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/search?q=jigsaw+toxic+comment+classification+challenge) sur Kaggle, qui propose un cadre riche pour explorer la classification des commentaires toxiques.
